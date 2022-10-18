@@ -12,8 +12,8 @@
 
 # Практическая работа 4
 
-  - [Отчёт по ПР3](/practic/otchet_pr4.pdf).
+  - [Отчёт по ПР4](/practic/otchet_pr4.pdf).
   
   # Практическая работа 5
 
-  - [Отчёт по ПР3](/practic/otchet_pr5.pdf).
+  - [Отчёт по ПР5](/practic/otchet_pr5.pdf).
